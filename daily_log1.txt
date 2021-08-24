@@ -1,0 +1,38 @@
+---------
+Daily Log 
+---------
+
+Date: 2021-08-18 Weight: 200
+Exercises: running  400  biking  200
+Food Items: eggs  300  bacon  300  toast  150  salad  550  1 beer  200  chicken  600  rice  200
+
+Date: 2021-08-19 Weight: 202
+Exercises: hiking  300
+Food Items: cereal  400  smoothie  300  sandwich  550  chips/salsa  200  pizza  750
+
+Date: 2021-08-20 Weight: 199
+Exercises: spin class  400
+Food Items: smoothie  410  sandwich  620  milk  120  burrito  1100  ice cream  425
+
+Date: 2021-08-21 Weight: 200
+Exercises: cycling class  320
+Food Items: bagel  400  salad  650  chips  200  pad thai  850
+
+Date: 2021-08-21 Weight: 200
+Exercises: running  400
+Food Items: eggs  200  pancakes  500  salad  450  sandwich  550  pizza  1000
+
+Date: 2021-08-21 Weight: 
+ 198Date: 2021-08-21 Weight: 198
+Date: 2021-08-21 Weight: 197
+Exercises: hiking  340  
+Food Items: cereal  400  almonds  80  fruit  65  burger  800  tacos  825  beer  310 
+
+Date: 2021-08-21 Weight: 205
+Exercises: running  500  
+Food Items: test  600 
+
+Date: 2021-08-22 Weight: 210
+Exercises: running  410  
+Food Items: burrito  550 
+
