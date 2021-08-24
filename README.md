@@ -1,0 +1,2 @@
+# daillyhealthtracker
+Basic "Daily Health Tracker" program built with Python (no external libraries) to get a current weight of the user and goal weight. The program then ingests the food items eaten for the day and calories taken in, as well as the exercises completed and calories burned. From there, it calculates an ideal, daily caloric intake rate, and lets the user see their progress in relation to the target intake rate. The program also prints out suggested workouts, based on the user's starting weight.  
